@@ -1,5 +1,3 @@
-# Шаблон пустого react ts app
-
 
 ## [JSON-server](https://github.com/typicode/json-server)
 
