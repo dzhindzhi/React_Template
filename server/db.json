@@ -2156,15 +2156,12 @@
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
     },
     {
-      "title": "My Movie",
-      "year": "2021",
+      "title": "My Movie 666",
+      "year": "2012",
       "plot": "Movie about me",
       "posterUrl": "",
-      "actors": [
-        "Leonardo",
-        " Papito"
-      ],
-      "director": "Kevin Spacey",
+      "actors": "Kirill, Klimov",
+      "director": "Men",
       "genres": [
         "No Data"
       ],
